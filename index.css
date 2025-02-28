@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* 🔹 Add Background Image from URL */
+  background-image: url('https://tse4.mm.bing.net/th?id=OIP.YdNziUU0bmjz5jeL5IzU7QHaE3&pid=Api&P=0&h=180');
+  background-size: cover;
+ 
+}
